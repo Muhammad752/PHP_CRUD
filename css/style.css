@@ -1,0 +1,32 @@
+.products{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px;
+    margin: 10px;
+    width: 100px;
+    height: 200px;
+}
+.products>p{
+    text-align: center;
+}
+.products>input{
+    position: absolute;
+}
+.buttons{
+    position: absolute;
+    right: 14px;
+    top: 20px;
+}
+form{
+    padding: 20px;
+}
+input{
+    margin: 10px;
+}
+.attr{
+    display: none;
+}
+.posit{
+    position: absolute;
+    width: 50px;   
+}
